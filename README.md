@@ -27,7 +27,7 @@ Install directly on any Android device running Android 8.0 (API 26) or higher. N
 
 | Send | Receive | History |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/2acb2b63-01ce-42d0-ac06-5521628e3431" width="200"/> | <img src="https://github.com/user-attachments/assets/606d015b-756b-4859-a13c-13b0ed717571" width="200"/> | <img src="https://github.com/user-attachments/assets/2f4af474-9d4e-43cf-87eb-e7b36cade411" width="200"/> |
+| <img src="https://github.com/user-attachments/assets/2acb2b63-01ce-42d0-ac06-5521628e3431" width="300"/> | <img src="https://github.com/user-attachments/assets/606d015b-756b-4859-a13c-13b0ed717571" width="300"/> | <img src="https://github.com/user-attachments/assets/2f4af474-9d4e-43cf-87eb-e7b36cade411" width="300"/> |
 
 </div>
 
