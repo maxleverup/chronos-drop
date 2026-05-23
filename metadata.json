@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Drop",
+  "description": "Transmit files at ultra speed between devices anonymously using access codes and bmrng.me.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

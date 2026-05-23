@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Clock circle -->
+    <path
+        android:strokeWidth="3.5"
+        android:strokeColor="#B1F3AD"
+        android:strokeLineCap="round"
+        android:pathData="M 54,16 A 38 38 0 1 1 53.99 16 Z" />
+
+    <!-- Clock Center Dot -->
+    <path
+        android:fillColor="#B1F3AD"
+        android:pathData="M 54,50.5 A 3.5 3.5 0 1 1 53.99 50.5 Z" />
+        
+    <!-- Hour/Minute vertical hand -->
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#B1F3AD"
+        android:strokeLineCap="round"
+        android:pathData="M 54,54 L 54,36" />
+        
+    <!-- Hour/Minute horizontal hand -->
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#B1F3AD"
+        android:strokeLineCap="round"
+        android:pathData="M 54,54 L 68,54" />
+
+    <!-- Sharp Green Arrow piercing from bottom-left to top-right -->
+    <!-- Main line -->
+    <path
+        android:strokeWidth="4.5"
+        android:strokeColor="#2E6C31"
+        android:strokeLineCap="round"
+        android:pathData="M 7,101 L 101,7" />
+
+    <!-- Arrow head side 1 -->
+    <path
+        android:strokeWidth="4.5"
+        android:strokeColor="#2E6C31"
+        android:strokeLineCap="round"
+        android:pathData="M 101,7 L 91,7" />
+
+    <!-- Arrow head side 2 -->
+    <path
+        android:strokeWidth="4.5"
+        android:strokeColor="#2E6C31"
+        android:strokeLineCap="round"
+        android:pathData="M 101,7 L 101,17" />
+        
+</vector>
